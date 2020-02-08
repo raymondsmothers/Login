@@ -1,0 +1,26 @@
+[
+	{
+		"username":"admin",
+		"password":"admin"
+	},
+	
+	{
+		"username":"normal",
+		"password":"password"
+	},
+	
+	{
+		"username":"superuser",
+		"password":"super"
+	},
+	
+	{ 
+		"username":"user",
+		"password":"p@ssw0rd"
+	},
+	
+	{
+		"username":"photogenesis",
+		"password":"lux"
+	}
+]
